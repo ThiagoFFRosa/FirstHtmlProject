@@ -49,3 +49,5 @@ I wanted a burguer menu to choose the tabs to see the painel to see the ranking 
 - Json Problems
 
 I have used a Json file to display the updated infos but I don't know WHY THE HEK it stopped working so I give up trying to understand why it stoped and I create another CSV file that would recieve the same info. anyways it works great!
+
+last update 11/08/2023
